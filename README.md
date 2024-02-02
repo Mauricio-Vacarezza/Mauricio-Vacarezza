@@ -1,8 +1,11 @@
 ### Hi there 👋
 ## Im Mauricio 
+```
 💻 I am a ~~newbie~~**professional** programer with a lot of will to learn.
+```
 **Here are my links**
-https://twitter.com/ElVacah    https://www.linkedin.com/in/mauricio-vacarezza-1b5b48286
+```
+[![Twitter Follow](https://twitter.com/ElVacah)    [![Linkedin Follow](https://www.linkedin.com/in/mauricio-vacarezza-1b5b48286)
 <!--
 **Mauricio-Vacarezza/Mauricio-Vacarezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
