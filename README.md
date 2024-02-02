@@ -5,4 +5,4 @@
 ```
 **Here are my links**
 ```
-[![Twitter Follow](https://twitter.com/ElVacah)]    [![Linkedin Follow](https://www.linkedin.com/in/mauricio-vacarezza-1b5b48286)]
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ElVacah)    [![Linkedin Follow](https://www.linkedin.com/in/mauricio-vacarezza-1b5b48286)]
