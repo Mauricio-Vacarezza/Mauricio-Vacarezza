@@ -9,7 +9,7 @@
 #### Design Tools:
 - Adobe Photoshop | Illustrator
 - Video Editing
-💻 I am a ~~newbie~~ **professional** programer with a lot of will to learn.
+
 🌟 Passionate about creation and technological innovation! Always seeking new challenges and learning experiences. Building an exciting digital future!### Hi there 👋
 
 📫 Connect with me! 
