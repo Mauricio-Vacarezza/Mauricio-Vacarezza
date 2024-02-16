@@ -10,7 +10,7 @@
 - Adobe Photoshop | Illustrator
 - Video Editing
 
-🌟 Passionate about creation and technological innovation! Always seeking new challenges and learning experiences. Building an exciting digital future!### Hi there 👋
+🌟 Passionate about creation and technological innovation! Always seeking new challenges and learning experiences. Building an exciting digital future!
 
 📫 Connect with me! 
 <b/>
