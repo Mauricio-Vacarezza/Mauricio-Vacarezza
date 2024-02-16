@@ -4,7 +4,7 @@
 
 #### Languages and Technologies:
 - HTML | CSS | JavaScript
-- C# | Java | SQL Server | .NET | APIs
+- C# | Java | SQL Server | .NET | APIs | Deployment of virtual machines
 
 #### Design Tools:
 - Adobe Photoshop | Illustrator
